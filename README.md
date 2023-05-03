@@ -6,6 +6,7 @@ A comparison between [original raytrace.ts](https://github.com/Microsoft/TypeScr
 
   * original [**TypeScript**](https://webreflection.github.io/raytrace/raytracer.html) targeting *ES2022* code
   * hand-written [**JavaScript**](https://webreflection.github.io/raytrace/rt.vanilla.html)
+  * fork of hand-written, but with `.ts` in the end, transpiled back to js: [**TypeScript**](https://kirillgroshkov.github.io/raytrace/rt.vanilla2.html)
 
 ## Licence ##
 
